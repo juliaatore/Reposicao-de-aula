@@ -144,15 +144,8 @@ nav ul a:hover::after {
     margin: 5px 0 10px 0;
 }
 
-.faca-mais-img {
-    height: 10px;
-    width: 10px;
+.faca-mais-img img {
+    height: auto;
+    width:50%;
 }
 
-.faca-mais .faca-mais-img {
-    width: 50%;
-}
-
-.faca-mais .faca-mais-img {
-    width: 50%;
-}
