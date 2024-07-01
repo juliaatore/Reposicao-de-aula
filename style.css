@@ -146,6 +146,88 @@ nav ul a:hover::after {
 
 .faca-mais-img img {
     height: auto;
-    width:50%;
+    width: 50%;
 }
+
+.card-item img {
+    height: auto;
+    width: 50%;
+}
+
+.depoimento h3 {
+    text-align: center;
+}
+
+.depoimento p {
+    margin-bottom: 20px;
+    text-align: center;
+    color: black;
+}
+
+.cards {
+    display: flex;
+    justify-content: center;
+    color: bl;
+}
+
+.depoimento .card-item {
+    background-color: #d3e6fd;
+    margin: 15px;
+    text-align: center;
+    width: 350px;
+}
+
+.depoimento .card-item img{
+    border-radius: 100%;
+    width: 80px;
+    display: block;
+    margin: 10px auto;
+}
+
+.depoimento .card-item .nome-user{
+   font-weight: 600;
+   font-size: 20px;
+   margin-bottom: 15px;
+   transition: 0.3s;
+}
+
+
+.depoimento .card-item .depoimento-user{
+    font-size: 15px;
+    padding: 0 15px;
+    transition: 0.3s;
+}
+
+.depoimento .card-item .estrelas{
+    margin: 15px 0;
+    border-top: 2px solid #71767a23
+}
+
+.depoimento .card-item .estrelas{
+    color: #4f9cf9;
+    margin-top: 15px;
+    font-size: 20px;
+}
+ 
+.depoimento .card-item:hover{
+    background-color: #4f9cf9;
+    margin-top: -5px;
+}
+
+.depoimento .card-item:hover .nome-user, .depoimento .card-item:hover .nome-user, .depoimento .cards .estrelas{
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
 
