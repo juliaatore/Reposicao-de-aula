@@ -218,11 +218,25 @@ nav ul a:hover::after {
     color: white;
 }
 
+.footer{ 
+    background-color: #4f9cf9;
+    text-align: center;
 
+}
 
+.footer i {
+    color: black;
+    font-size: 19px;
+    background-color: white;
+    padding: 10px;
+    margin: 3px;
+    border-radius: 10px;
+}
 
-
-
+.footer p{
+    margin-top: 10px;
+    color: white;
+}
 
 
 
